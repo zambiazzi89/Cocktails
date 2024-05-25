@@ -1,0 +1,22 @@
+.app-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .square-button {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
